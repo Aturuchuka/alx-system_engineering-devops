@@ -1,3 +1,2 @@
 #!/bin/bash
-sudo ls -amF#!/bin/bash
 sudo ls -amF
